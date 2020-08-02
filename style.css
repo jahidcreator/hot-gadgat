@@ -4,9 +4,17 @@
 #carouselExampleIndicators li{
     background-color: red;
 }
-.background{
-    back;
+.background-1{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    height: 500px;
 }
+.background-2{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
 .red{
     color: red;
 }
