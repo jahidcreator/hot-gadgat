@@ -4,6 +4,10 @@
 #carouselExampleIndicators li{
     background-color: red;
 }
+.logo-img img{
+    width: 200px;
+    height: 70px;
+}
 .background-1{
     background-image: url("images/bg-2.png");
     background-repeat: no-repeat;
@@ -35,6 +39,3 @@
 }
 .cat2, .cat3{
     border-radius: 5px 5px 25px 5px;
-.container ul li img{
-        width: 100%;
-    }
